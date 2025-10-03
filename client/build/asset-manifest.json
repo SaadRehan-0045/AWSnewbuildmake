@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e1156a5.css",
+    "main.js": "/static/js/main.4016be02.js",
+    "static/media/PyVZwSt.png": "/static/media/PyVZwSt.8cbcf7151126db1687ec.png",
+    "static/media/animevideo.mp4": "/static/media/animevideo.0a96e2dbf0fd8e92b4be.mp4",
+    "static/media/all.jpg": "/static/media/all.c82364f18e8679c64fd0.jpg",
+    "static/media/all3.jpg": "/static/media/all3.f2e6fde6656d8c26a5b9.jpg",
+    "static/media/all2.jpg": "/static/media/all2.dc7064852f2e8e50c0cc.jpg",
+    "static/media/deathnote.jpg": "/static/media/deathnote.bd6930dbe72b16b14ef4.jpg",
+    "static/media/3.jpg": "/static/media/3.f6a27d5efdfcd99fc309.jpg",
+    "static/media/naruto.jpg": "/static/media/naruto.c18e92f59bac77535c80.jpg",
+    "index.html": "/index.html",
+    "main.8e1156a5.css.map": "/static/css/main.8e1156a5.css.map",
+    "main.4016be02.js.map": "/static/js/main.4016be02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e1156a5.css",
+    "static/js/main.4016be02.js"
+  ]
+}
