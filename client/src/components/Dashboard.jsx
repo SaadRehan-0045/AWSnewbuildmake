@@ -403,7 +403,7 @@ const Posts = ({ category, searchQuery, isMobile, isTablet }) => {
   useEffect(() => {
     const fetchData = async () => { 
       try {
-        const response = await axios.get('https://verceldeploymyaniverse.vercel.app/posts', {
+        const response = await axios.get('http://localhost:8080/posts', {
           params: { category: category || '' }
         });
         
@@ -570,5 +570,6 @@ const Dashboard = () => {
     </Layout>
   );
 };
+
 
 export default Dashboard;
